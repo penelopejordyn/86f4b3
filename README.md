@@ -12,12 +12,12 @@ Install dependencies:
 npm install
 
 Start the mock server:
-npm run server
+1. set url in .env.local
+2. npm run
 
 
 Start the development server:
-1. set url in .env.local
-2. npm run dev
+npm run dev
 
 Open your browser and navigate to http://localhost:3000
 
