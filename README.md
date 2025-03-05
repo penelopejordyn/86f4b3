@@ -12,7 +12,7 @@ Install dependencies:
 npm install
 
 Start the mock server:
-1. set url in .env.local (NEXT_PUBLIC_MOCK_SERVER_URL= <enter mock server url>
+1. set url in .env.local (NEXT_PUBLIC_MOCK_SERVER_URL= 'enter mock server url'
 2. npm run
 
 
